@@ -1,0 +1,7 @@
+mama 1
+mama 2
+mama 15
+mama 3
+papa 12
+papa 3
+papa 5
