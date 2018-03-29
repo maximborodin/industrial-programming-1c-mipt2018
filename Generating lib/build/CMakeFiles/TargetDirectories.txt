@@ -1,0 +1,4 @@
+/home/vagrant/Generating lib/build/CMakeFiles/rebuild_cache.dir
+/home/vagrant/Generating lib/build/CMakeFiles/edit_cache.dir
+/home/vagrant/Generating lib/build/CMakeFiles/Generator.dir
+/home/vagrant/Generating lib/build/CMakeFiles/GeneratingLib.dir

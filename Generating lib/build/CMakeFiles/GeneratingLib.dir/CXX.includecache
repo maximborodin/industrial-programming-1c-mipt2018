@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vagrant/Generating lib/lib.h
+
+/home/vagrant/Generating lib/main.cpp
+iostream
+-
+lib.h
+/home/vagrant/Generating lib/lib.h
+
